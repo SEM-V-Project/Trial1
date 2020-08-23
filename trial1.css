@@ -1,0 +1,60 @@
+body{
+  color: white;
+}
+
+
+.blue{
+  background: blue;
+}
+
+.green{
+  background: #e74c3c;
+}
+
+.con1{
+  background: skyblue;
+  height: 100vh;
+}
+
+.hd{
+  padding-top: 50px;
+  padding-bottom: 20px;
+  font-family: 'Permanent Marker', cursive;
+}
+
+.car{
+  width: 600px;
+  height: 400px;
+}
+
+.par{
+  font-size: 25px;
+
+}
+
+.con2{
+  height: 100vh;
+  font-size: 30px;
+  color: black;
+}
+
+.ima{
+  width: 300px;
+  height: 200px;
+}
+
+.if{
+  height: 40vh;
+}
+
+.foo{
+  color: white;
+  background: black;
+  height: 30vh;
+  padding-top: 20px;
+}
+
+.bt{
+  margin-bottom: 10%;
+  height: 60px;
+}
