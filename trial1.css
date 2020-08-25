@@ -13,7 +13,7 @@ body{
 
 .con1{
   background: skyblue;
-  height: 100vh;
+  height: auto;
 }
 
 .hd{
@@ -22,20 +22,19 @@ body{
   font-family: 'Permanent Marker', cursive;
 }
 
-.car{
-  width: 600px;
+/* .car{
+  width: 300px;
   height: 400px;
-}
+} */
 
 .par{
-  font-size: 25px;
-
+  margin-bottom: 30px;
 }
 
 .con2{
-  height: 100vh;
-  font-size: 30px;
+  height: auto;
   color: black;
+  font-family: 'Baloo Tamma 2', cursive;
 }
 
 .ima{
@@ -50,11 +49,16 @@ body{
 .foo{
   color: white;
   background: black;
-  height: 30vh;
+  height: auto;
   padding-top: 20px;
+  margin-top: 10px;
 }
 
 .bt{
   margin-bottom: 10%;
   height: 60px;
+}
+
+.con3{
+  background: grey;
 }
